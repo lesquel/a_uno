@@ -102,6 +102,6 @@ body{
 
 @media screen and (min-width: 1440px) {
     .card{
-        width: 450px;
+        width: 350px;
     }
 }
